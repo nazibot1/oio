@@ -1,6 +1,6 @@
-token=NDg5ODk1NTM5MTQwMTk4NDAw.DnxaXA.hYYcDEWPT2fJIAdnGzWu64X_v7E
-owner=480563646854987796
-prefix=O
-game=Dead
+token=NDg5ODk5MjYyNTM3MTA1NDI4.DnxdxQ.eDVr57WDOC-u1AopmWTxdafsgiU
+owner=370544002270887937
+prefix=H
+game=
 stayinchannel=true
-songinstatus=true
+songinstatus=false
